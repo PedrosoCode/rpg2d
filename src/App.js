@@ -4,6 +4,9 @@ import './App.css';
 import Navbar from './components/Navbar'; 
 import Footer from './components/Footer'; 
 
+
+
+
 function App() {
   return (
     <div>
@@ -16,6 +19,7 @@ function App() {
         </h2>
       </section>
       <Footer />
+      
     </div>
   );
 }
